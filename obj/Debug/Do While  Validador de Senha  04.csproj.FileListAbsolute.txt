@@ -1,0 +1,8 @@
+C:\Users\Ornare\source\repos\Do While  Validador de Senha  04\bin\Debug\Do While  Validador de Senha  04.exe.config
+C:\Users\Ornare\source\repos\Do While  Validador de Senha  04\bin\Debug\Do While  Validador de Senha  04.exe
+C:\Users\Ornare\source\repos\Do While  Validador de Senha  04\bin\Debug\Do While  Validador de Senha  04.pdb
+C:\Users\Ornare\source\repos\Do While  Validador de Senha  04\obj\Debug\Do While  Validador de Senha  04.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\Do While  Validador de Senha  04\obj\Debug\Do While  Validador de Senha  04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ornare\source\repos\Do While  Validador de Senha  04\obj\Debug\Do While  Validador de Senha  04.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\Do While  Validador de Senha  04\obj\Debug\Do While  Validador de Senha  04.exe
+C:\Users\Ornare\source\repos\Do While  Validador de Senha  04\obj\Debug\Do While  Validador de Senha  04.pdb
